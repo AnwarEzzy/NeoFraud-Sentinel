@@ -2,7 +2,6 @@
 
 > **Système de Détection de Fraude Bancaire Avancé par Analyse de Graphes**
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Neo4j](https://img.shields.io/badge/Database-Neo4j-008CC1?logo=neo4j&logoColor=white)](https://neo4j.com/)
 [![Node.js](https://img.shields.io/badge/Backend-Node.js-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
 [![React](https://img.shields.io/badge/Frontend-React-61DAFB?logo=react&logoColor=black)](https://reactjs.org/)
@@ -109,8 +108,3 @@ graph TD
     API <--> Auth[JWT Construction]
 ```
 
-## 📝 Licence
-Ce projet est sous licence MIT.
-
----
-*Développé avec ❤️ pour la sécurité financière.*
